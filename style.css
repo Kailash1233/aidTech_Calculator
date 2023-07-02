@@ -66,10 +66,11 @@ form input.equal {
 }
 
 form input.special {
-    color: springgreen;
+    color: black;
+    background: orange;
 }
 
-form input.ez{
-    background: rgb(46, 45, 45);
-    color: springgreen;
+form input.special1 {
+    color: black;
+    background: lightgrey;
 }
